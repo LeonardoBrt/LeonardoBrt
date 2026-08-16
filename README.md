@@ -4,9 +4,9 @@
 
 Systems Development student at **IFBA – Campus Salvador**, currently in the first semester, with a **Technical Degree in Systems Development from SENAI**.
 
-Currently seeking my **first professional opportunity in technology**, where I can apply the knowledge acquired throughout my technical and academic education, contribute to real-world projects, and continue developing my skills as a software developer.
+Currently seeking my **first professional opportunity in technology**, where I can apply my knowledge, contribute to real-world projects, and continue expanding my skills in software and web development.
 
-My current experience comes primarily from **academic and personal projects**, involving programming, web development, databases, requirements analysis, and software development fundamentals.
+My current experience comes primarily from academic activities and practical projects developed throughout my technical and current education.
 
 ---
 
@@ -50,11 +50,9 @@ My current experience comes primarily from **academic and personal projects**, i
 
 ## Knowledge
 
-Through my technical education and academic projects, I have developed foundational knowledge in:
-
-* Software Development
 * Programming Logic
 * Object-Oriented Programming
+* Software Development
 * Web Development
 * Relational Databases
 * MySQL
@@ -65,51 +63,37 @@ Through my technical education and academic projects, I have developed foundatio
 * Requirements Analysis
 * Version Control with Git
 
-I also have introductory knowledge of **Java** and continue expanding my knowledge of software development technologies throughout my studies.
+I also have introductory knowledge of **Java** and continue expanding my technical knowledge throughout my studies.
 
 ---
 
 ## Education
 
-**Systems Development**
-Instituto Federal da Bahia – **IFBA, Campus Salvador**
-Currently enrolled – First Semester
+### Systems Development
 
-**Technical Degree in Systems Development**
+**Instituto Federal da Bahia – IFBA, Campus Salvador**
+Currently enrolled · First Semester
+
+### Technical Degree in Systems Development
+
 **SENAI**
 
 Technical education focused on programming fundamentals, software development, databases, requirements analysis, and systems modeling.
 
 ---
 
-## Projects
-
-My repositories primarily contain **academic and personal projects** developed as part of my technical education and ongoing studies.
-
-### Concentra
-
-Educational application designed to support the learning process of children with ADHD.
-
-[View Project](https://leonardodevba.github.io/projetoConcentra/)
-
-Additional projects involving programming, databases, web development, and software development are available in my repositories.
-
----
-
 ## Currently
 
-I am currently focused on strengthening my programming fundamentals, expanding my knowledge of software and web development, and building projects that allow me to put my technical knowledge into practice.
+Focused on strengthening my programming fundamentals and expanding my knowledge in software and web development.
 
-I am open to **internship and entry-level opportunities** where I can contribute, gain professional experience, and continue developing as a software developer.
+I am currently looking for my **first professional opportunity in technology**, including internship and entry-level positions, where I can apply my knowledge, gain practical experience, contribute to projects, and continue developing professionally.
 
 ---
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-LeonardoDevBa-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoDevBa)
+[![Instagram](https://img.shields.io/badge/Instagram-britt0.dev-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://www.instagram.com/britt0.dev?igsh=MWx3cjA3NHNybXFtcQ==)
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:leozinnjr8@gmail.com)
+<!-- Add your LinkedIn here when available -->
 
-<!-- Adicione seu LinkedIn quando desejar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Britto-0A66C2?style=flat&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
--->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Britto-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
